@@ -165,8 +165,8 @@ Simply provide builder callbacks and the package will handle the UI and animatio
 
 <table align="center">
   <tr>
-    <th>Animated Category</th>
-    <th>Drawer Category</th>
+    <th>Demo Vedio 1</th>
+    <th>Demo Vedio 2</th>
   </tr>
   <tr>
     <td>
