@@ -159,7 +159,10 @@ Simply provide builder callbacks and the package will handle the UI and animatio
 * Haptic Feedback
 * Animated Shadow Effects
 
-## Demo
+## Demo Vedios
+<img src="assets/demo.gif",alt="demo Vedio",height="200">
+
+<img src="assets/demo1.gif",alt="demo Vedio 2",height="200">
 
 ### Selected Category
 
