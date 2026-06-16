@@ -162,8 +162,9 @@ Simply provide builder callbacks and the package will handle the UI and animatio
 ## Demo Vedios
 
 <p align="center">
-  <img src="assets/demo.gif" width="250" height="300">
-  <img src="assets/demo1.gif" width="250" height="300">
+  <img src="assets/demo.gif"  height="300">
+
+  <img src="assets/demo1.gif"  height="300">
 </p>
 
 ### Selected Category
