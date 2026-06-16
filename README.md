@@ -160,9 +160,10 @@ Simply provide builder callbacks and the package will handle the UI and animatio
 * Animated Shadow Effects
 
 ## Demo Vedios
-<img src="assets/demo.gif",height="300">
 
-<img src="assets/demo1.gif",height="300">
+<img src="assets/demo.gif" height="300">
+
+<img src="assets/demo1.gif" height="300">
 
 ### Selected Category
 
